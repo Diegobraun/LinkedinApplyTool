@@ -1,4 +1,4 @@
-package com.diegobraun.linkedinapplytool.api.controller;
+package com.diegobraun.linkedinapplytool.api.domain;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;
